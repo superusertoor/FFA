@@ -1,0 +1,16 @@
+name: FFA
+author: SCAR
+version: 1.0
+main: de.toor.ffa.main.FFA
+depend: [ThuglifeSpigot]
+commands:
+      Stats:
+      Spectate:
+        aliases: [spec]
+      ChatClear:
+      SetSpawn:
+      Vanish:
+        aliases: [v]
+      Duel:
+      Inventory:
+        aliases: [inv]
